@@ -1,8 +1,11 @@
 # Mohammed HACHOUR 👨‍💻
 
-Étudiant en informatique passionné | Université de Lille
+**Étudiant en Master Cybersécurité & IoT | Université de Lille**  
 
-Bienvenue sur mon profil GitHub ! Je suis Mohammed, actuellement en troisième année de licence d'informatique à l'Université de Lille, en quête d'un apprentissage pour l'année académique 2024. J'ai un penchant pour la résolution de problèmes, le développement logiciel, et je suis constamment à la recherche de nouveaux défis.
+Bienvenue sur mon profil GitHub ! Je suis Mohammed, actuellement en Master 1 Cybersécurité & Internet des Objets à l'Université de Lille. Passionné par la cybersécurité, le cloud et l’IoT, j’aime relever des défis techniques et approfondir mes connaissances en analyse des risques, pentesting et sécurisation des infrastructures.  
+
+Je suis à la recherche d’une alternance pour mon Master 2 à partir de septembre 2025. Toujours curieux et motivé, je suis prêt à contribuer à des projets innovants et à apprendre au sein d’un environnement stimulant.  
+
 
 ## 📞 Contact
 
