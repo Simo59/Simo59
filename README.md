@@ -11,6 +11,7 @@ Je suis à la recherche d’une alternance pour mon Master 2 à partir de septem
 
 - **Lieu :** Lille
 - **Email :** [mohammed.hachour@outlook.fr](mailto:mohammed.hachour@outlook.fr)
+- **Numero :** +336 01 75 45 84
 
 ## 🎓 Éducation
 
