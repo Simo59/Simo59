@@ -17,7 +17,19 @@ Je suis à la recherche d’un stage de fin d'etude pour mon Master 2 à partir 
 
 - **Master Internet of Things & Cybersecurity | Université | 2024 - 2026**
 - **Licence d'Informatique | Université de Lille | 2021 - 2024**
-  
+
+## 🧪 Projets Réalisés
+
+### ☁️ Cloud Computing & Infrastructure Sécurisée
+- Déploiement automatisé sur **OpenStack** avec Terraform & Ansible  
+- Réplication sécurisée des bases **MySQL/PostgreSQL** avec ProxySQL  
+- Containerisation & sécurisation d’applications avec **Docker** et équilibrage de charge  
+
+### 🔐 Cybersécurité & Systèmes embarqués
+- Implémentation d’algorithmes cryptographiques et protocoles de paiement sécurisé  
+- Projet de **chat client/serveur TCP/UDP** en Python  
+- Sécurité et gestion des droits sous UNIX  
+
 ## 💼 Expériences Professionnelles
 
 ### 🧩 Stage – Supervision d’applications microservices  
