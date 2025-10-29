@@ -2,9 +2,9 @@
 
 **Étudiant en Master Cybersécurité & IoT | Université de Lille**  
 
-Bienvenue sur mon profil GitHub ! Je suis Mohammed, actuellement en Master 1 Cybersécurité & Internet des Objets à l'Université de Lille. Passionné par la cybersécurité, le cloud et l’IoT, j’aime relever des défis techniques et approfondir mes connaissances en analyse des risques, pentesting et sécurisation des infrastructures.  
+Bienvenue sur mon profil GitHub ! Je suis Mohammed, actuellement en Master Cybersécurité & Internet des Objets à l'Université de Lille. Passionné par la cybersécurité, le cloud et l’IoT, j’aime relever des défis techniques et approfondir mes connaissances en analyse des risques, pentesting et sécurisation des infrastructures.  
 
-Je suis à la recherche d’une alternance pour mon Master 2 à partir de septembre 2025. Toujours curieux et motivé, je suis prêt à contribuer à des projets innovants et à apprendre au sein d’un environnement stimulant.  
+Je suis à la recherche d’un stage de fin d'etude pour mon Master 2 à partir de mars 2026. Toujours curieux et motivé, je suis prêt à contribuer à des projets innovants et à apprendre au sein d’un environnement stimulant.  
 
 
 ## 📞 Contact
@@ -17,24 +17,35 @@ Je suis à la recherche d’une alternance pour mon Master 2 à partir de septem
 
 - **Master Internet of Things & Cybersecurity | Université | 2024 - 2026**
 - **Licence d'Informatique | Université de Lille | 2021 - 2024**
-- **1ère année en Mathématiques et Informatique | Univ UMMTO | 2019 - 2020**
+  
+## 💼 Expériences Professionnelles
 
+### 🧩 Stage – Supervision d’applications microservices  
+**Université de Lille | Avril 2025 – Juillet 2025**  
+- Développement d’un outil automatisé de supervision  
+- Génération dynamique de configurations, création de dashboards, détection d’indisponibilités  
+
+### 📊 Stage – Analyse de données & SIEM  
+**Bmgi Hosting (Alger) | Juin – Août 2024**  
+- Mise en place d’un SIEM (Elastic Stack)  
+- Collecte et nettoyage de données (Python)  
+- Visualisation et analyse avec Kibana
+  
 ## 💻 Compétences Techniques
 
 - **Base de données :**
   - PostgreSQL, MySQL
 - **Langages de programmation :**
   - Langage C, Python
-- **Frontend :**
-  - HTML5, CSS, React.js, Bootstrap
-- **Backend :**
-  - PHP, Node.js, Python, Java
+- **Technologies et Outils :**
+  - Docker, OpenStack, Ansible, Terraform, Kubernetes, Prometheus, Grafana, cAdvisor, Node Exporter.
 - **Programmation fonctionnelle :**
   - Haskell
 - **Systèmes d'exploitation :**
   - Linux, Windows, MacOS
 - **Outils :**
   - Git, GitHub, GitLab, Docker, MS Office
+
 
 ## 🎉 Intérêts Personnels
 
